@@ -1,5 +1,7 @@
 # Emotion-Based Task Planner
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+
 Suggests daily activities based on a detected or user-provided mood.
 
 ## Features
